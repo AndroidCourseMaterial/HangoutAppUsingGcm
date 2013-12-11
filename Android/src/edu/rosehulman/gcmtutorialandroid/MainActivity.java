@@ -23,8 +23,9 @@ public class MainActivity extends Activity {
 	private TextView mDisplay;
 
 	/** GAE Project Number */
-	String SENDER_ID = "700226470606"; // for danick-gcm-tutorial
-
+	//String SENDER_ID = "700226470606"; // for danick-gcm-tutorial
+	String SENDER_ID = "619093139789"; // for Project ID:  fisherds-hangout-gcm  Project Number:  619093139789
+	
 	GoogleCloudMessaging mGcmHelper;
 
 	@Override
